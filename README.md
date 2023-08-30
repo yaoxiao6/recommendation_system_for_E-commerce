@@ -1,4 +1,5 @@
 # Recommendation system for E-commerce
+> This work is completed by four people in a group
 ## Introduction
 The rapid growth of e-commerce in recent years has transformed how consumers shop for and purchase electronic products. The extensive selection of electronics available online offers various benefits to consumers, including convenience, lower pricing, and easy access to product reviews. However, this abundance of choices can also lead to significant challenges for both consumers and online retailers, as it can be difficult for individuals to find the right products that meet their specific needs and preferences.
 In order to cope with this challenge, many e-commerce platforms have started implementing recommendation systems that provide personalized suggestions to customers, helping them navigate through various selections of products more efficiently. These systems analyze several factors, including browsing history, user preferences, and previous purchases, to generate personalized recommendations, aiming to improve the overall shopping experience and customer satisfaction.
